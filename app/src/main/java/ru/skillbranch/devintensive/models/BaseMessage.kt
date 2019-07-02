@@ -1,8 +1,6 @@
-package ru.skillbranch.dev_intensive.models
+package ru.skillbranch.devintensive.models
 
-import android.service.voice.AlwaysOnHotwordDetector
 import java.util.*
-import javax.sql.StatementEvent
 
 abstract class BaseMessage(
       val id: String

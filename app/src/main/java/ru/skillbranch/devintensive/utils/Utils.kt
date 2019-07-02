@@ -1,6 +1,4 @@
-package ru.skillbranch.dev_intensive.utils
-
-import android.service.voice.AlwaysOnHotwordDetector
+package ru.skillbranch.devintensive.utils
 
 object Utils {
 
